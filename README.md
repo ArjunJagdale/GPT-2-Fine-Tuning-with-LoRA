@@ -1,6 +1,3 @@
-Here's a clean and professional **README.md** section in Markdown format for your LoRA fine-tuning GPT-2 project:
-
-```markdown
 # 🧠 Motivational Quote Generator (LoRA Fine-Tuning on GPT-2)
 
 This project demonstrates **Parameter-Efficient Fine-Tuning (PEFT)** using **LoRA** on the GPT-2 model to generate short, motivational English quotes.
