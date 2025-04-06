@@ -137,8 +137,3 @@ TensorBoard logs are saved under `./logs`. You can visualize training with:
 - Controlled generation using sampling and prompt tuning.
 
 ---
-
-> 🧩 Feel free to fork and modify for your own text generation tasks!
-```
-
-Let me know if you'd like a version tailored for a Hugging Face Space or GitHub project card too!
